@@ -16,4 +16,4 @@
 * Шрифты подключены локально и только необходимые стили. 
 
 -----
-[ССЫЛКА НА ОПУБЛИКОВАННЫЙ ПРОЕКТ](https://sukhanovigorg.github.io/russian-travel/index.html)
+[ССЫЛКА НА ОПУБЛИКОВАННЫЙ ПРОЕКТ](https://sukhanovigorg.github.io/travel-russia-sukhanov/index.html)
