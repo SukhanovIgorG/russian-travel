@@ -1,6 +1,6 @@
 .place__paragraph {
   margin: 0;
-  padding: 25px 16px 32px 16px; /* верхний паддинг 32 будет суммой с пад 7 у картинки */
+  padding: 25px 16px 0 16px; /* верхний паддинг 32 будет суммой с пад 7 у картинки */
   max-width: 456px;
 
   font-size: 16px;

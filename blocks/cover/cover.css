@@ -5,7 +5,7 @@
   max-height: 740px;
   margin: 0 auto;
 
-  background-image: url(../../img/cover__background.jpg);
+  background-image: url(../../img/cover__background_mob.jpg);
   background-size: auto 100%;
   background-position: center;
 
@@ -16,4 +16,11 @@
 
 .cover:hover .cover__overlay {
   opacity: 80%;
+}
+
+@media screen and (min-width: 768px) {
+  .cover {
+    background-image: url(../../img/cover__background.jpg);
+  }
+  
 }
