@@ -32,3 +32,9 @@
   }
 }
 
+@media screen and (min-width: 1280px) {
+  .photo-grid {
+    padding-top: 90px;
+  }
+}
+

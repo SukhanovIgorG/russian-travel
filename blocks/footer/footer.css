@@ -19,22 +19,9 @@
   }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1139px) {
+@media screen and (min-width: 1024px) {
   .footer {
     min-height: 131px;
-    box-sizing: border-box;
-    padding: 92px 48px 24px 48px;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-  }
-}
-
-@media screen and (min-width: 1140px) {
-  .footer {
-    min-height: 131px;
-    box-sizing: border-box;
     padding: 92px 48px 24px 48px;
 
     display: flex;
